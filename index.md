@@ -4,7 +4,7 @@
 
 By using our Services you are agreeing to the following Privacy Policy.
 
-Effective as of: December 16th, 2020.
+Effective as of: April 8th, 2025.
 
 1. Introduction
 
@@ -139,4 +139,4 @@ This Privacy Policy and any dispute arising hereunder will be governed by the la
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
 Early Morning Studio AB
-Sveavägen 9, 111 57, Stockholm, Sweden
+Drottninggatan 18, 803 20 Gävle, Sweden
