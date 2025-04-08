@@ -1,175 +1,142 @@
-## Vampire's Fall 2 - Terms of Service
+## Vampire's Fall 2 - Privacy Policy
 
-# Terms of Service
+**PRIVACY POLICY**
+
+By using our Services you are agreeing to the following Privacy Policy.
 
 Effective as of: December 16th, 2020.
 
-1. Acceptance of the Terms of Service
+1. Introduction
 
-(1) These Terms of Service are entered into by and between You or your business entity ( **&quot;** You **&quot;** ) and Early Morning Studio AB (&quot;Company&quot; or &quot;we&quot;). The following terms and conditions (these &quot;Terms of Service&quot;), govern your access to and use of the game &quot;Vampire&#39;s Fall 2&quot;, including any content, functionality and services offered on or through our service (the &quot;Service&quot;).
+(1) Early Morning Studio AB (&quot;Company&quot; or &quot;We&quot;) respects your privacy and is committed to protecting it through our compliance with this policy. We are also committed to protecting your privacy in accordance with the principles laid out in the applicable legislation. This policy describes the types of information we may collect from you or that you may provide when you use our website, applications or services, including, without limitation, the game &quot;Vampire&#39;s Fall 2&quot; (our &quot;Service&quot; or &quot;Website&quot;) and our practices for collecting, using, maintaining, protecting, and disclosing that information. This policy applies to information we collect: (a) on this Service; and (b) in email, text, and other electronic messages between you and this Service. This policy does not apply to any information collected by: (a) us offline or through any other means, including on any other website or application operated by Company or any third party (including our affiliates or subsidiaries); and (b) any third party, including through any application or content that may link to or be accessible from or in the Services.
 
-(2) Please read the Terms of Service carefully before you start to use the Service. **By starting using the Service or by clicking to accept or agree to the Terms of Service when this option is made available to you, you accept and agree to be bound and abide by these Terms of Service and our Privacy Policy, incorporated herein by reference.** If you do not want to agree to these Terms of Service or the Privacy Policy, do not subscribe, register or use this Service.
+(2) Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Service. By accessing or using this Service, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Service after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-(3) Our Service is not intended for children under 13 years of age. No one under age 13 may provide any information to the Service. We do not knowingly collect personal information from children under 13. If you are under the age of 13, do not use or provide any information on this Service or on or through any of its features, make any purchases through the Service or provide any information about yourself to us. If You are between the ages of 13 and 18, please be sure to read these Terms of Service with your parent and get his or her permission before you access or use the Services.
+(3) Our Service is not intended for children under 13 years of age. No one under age 13 may provide any information to the Service. We do not knowingly collect Personal Information from persons under 13. If you are under 18 and unless your consent is given or authorized by the holder of your parental responsibility in accordance with applicable law (if you are between the ages of 13 and 18), do not use or provide any information on this Service or on or through any of its features, use any of the interactive or public comment features of this Service or provide any information about yourself to us. If you believe we might have any information from or about anyone under 13, please contact us at the e-mail at the bottom of this Privacy Policy.
 
-(4) If we believe you are in breach of any of these Terms, we reserve the right to reject, suspend or revoke your access to the Service, in our sole discretion.
+2. Information We Collect About You and How We Collect It
 
-2. Changes to the Terms of Service
+(1) We may collect several types of information from and about users of our Service, including information: (a) by which you may be personally identified, such as your name, e-mail address, telephone number, credit card and payment information and billing address (&quot;Personal Information&quot;); (b) that is about you but individually does not identify you; and/or (c) about your internet connection, the equipment you use to access our Service and usage details.
 
-(1) We may revise and update these Terms of Service from time to time in our sole discretion. All changes are effective immediately when we post them.
+(2) We collect this information: (a) directly from you when you provide it to us; and (b) automatically as you navigate through the Service. Information collected automatically may include usage details, location, IP address, browser type and other information collected through cookies, web beacons, and other tracking technologies.
 
-(2) Your continued use of the Service following the posting of revised Terms of Service means that you accept and agree to the changes. You are expected to check this page frequently so you are aware of any changes, as they are binding on you.
+(3) We may also collect information provided by third parties, including, without limitation, websites or other services that post our advertising materials.
 
-3. Description of the Service
+3. Information You Provide to Us
 
-(1) Early Morning Studio AB provides a game entitled &quot;Vampire&#39;s Fall 2&quot;, which is made available on gaming platforms, such as Steam and Google Play (the &quot;Gaming Platform&quot;).
+(1) The information we collect on or through our Service may include: (a) information that you provide by filling in forms on our Service, including information provided at the time of registering to use our Service, requesting services or report a problem with our Service; (b) records and copies of your correspondence (including email addresses and voice call details), if you contact us; (c) details of transactions you carry out through our Service, as you may be required to provide financial information; and (d) your response to surveys we may ask you to complete.
 
-(2) You agree that certain features of the Service may be offered and operated by us in conjunction with other third party services providers, such as the gaming platforms. We therefore encourage you to also review such third party&#39;s terms and conditions, as they may also apply to your use of the Service.
+(2) We may also receive Personal Information that you provide when you place an order within our Services and the order is processed by another party, such as the payment processor. Such Personal Information may include billing and payment information.
 
-4. Accessing the Service and Account Security
+4. Information We Collect Through Automatic Data Collection Technologies
 
-(1) To use the Service, we create an anonymous account automatically. You may then choose to register for an account, which is usually done through a sign-in method from Your social media or gaming platform account (Facebook, Apple, Google). After a successful registration you will be provided with an account for your own use (the &quot;Account&quot;), through which you will be able to access the Service. You are responsible for (a) making all necessary arrangements to have access to the Service; and (b) ensuring that all persons who access the Service through the Account are aware of these Terms of Service and comply with them.
+(1) As you navigate through and interact with our Service or with any of our advertising materials on third party services, we may use automatic data collection technologies to collect certain information about your equipment, interactions with the Services, and patterns, including, without limitation: (a) details of your visits to our Service, including traffic data, location data, and other communication data and the resources that you access and use on the Service; and (b) information about your computer and internet connection, including your IP address, operating system, and device type.
 
-(2) To access the Service or some of the resources it offers, you may be asked to provide certain registration details or other information. It is a condition of your use of the Service that all the information you provide is correct, current and complete. You agree that all information you provide to register with this Service is governed by our _Privacy Policy_ [ADD HYPERLINK], and you consent to all actions we take with respect to your information consistent with our Privacy Policy.
+(2) The information we collect through automatic data collection technologies may include Personal Information, or we may maintain it or associate it with Personal Information we collect or receive from third parties. It helps us to improve our Service, including by enabling us to estimate our audience size and usage patterns and store information about users&#39; preferences. For more information about this, please refer to our Cookie Policy.
 
-(3) If you choose, or are provided with, a username, password or any other piece of information as part of our security procedures, you must treat such information as confidential, and you must not disclose it to any other person or entity. You agree to notify us immediately of any unauthorized access to your Account or any other breach of security. You should use particular caution when accessing your Account from a public or shared computer so that others are not able to view or record your password or other personal information.
+(3) The technologies we use for this automatic data collection may include, without limitation:
 
-5. Usage Restrictions
+(a) Cookies (or browser cookies). _A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Service._
 
-(1) You shall not (a) modify, translate, adapt or otherwise create derivative works or improvements, whether or not patentable, of the Service; (b) reverse engineer, disassemble, decompile, decode or otherwise attempt to derive or gain access to the source code of the Service or any part thereof; (c) remove, delete, alter or obscure any trademarks or any copyright, trademark, patent or other intellectual property or proprietary rights notices from the Service, including any copy thereof; (d) rent, lease, lend, sell, sublicense, assign, distribute, publish, transfer or otherwise make available the Service or any features or functionality of the Service, to any third party for any reason, including by making the Service available on a network where it is capable of being accessed by more than one device at any time; (e) remove, disable, circumvent or otherwise create or implement any workaround to any copy protection, rights management or security features in or protecting the Service; and (f) use the Service for any purpose that is not for your personal use.
+(b) Flash Cookies. _Certain features of our Services may use local stored objects (or Flash cookies) to collect and store information about your preferences and navigation to, from, and on our Services. Flash cookies are not managed by the same browser settings as are used for browser cookies._
 
-(2) If you wish to make any use of material on the Service other than that set out in this section, please address your request to the e-mail address at the bottom of these Terms.
+(c) Web Beacons. _Pages of our Service and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related websites._
 
-6. Content Standards
+(c) Tracking Pixels. _Certain features of our Services may use tracking pixels to allow Us to advertise more efficiently by excluding certain users from promotional content or delivering advertisements on other websites._
 
-(1) These content standards apply to any and all user contributions and use of interactive services. User contributions must in their entirety comply with all applicable local and international laws and regulations. Without limiting the foregoing, user contributions must not (a) contain any material which is defamatory, obscene, indecent, abusive, offensive, harassing, violent, hateful, inflammatory or otherwise objectionable; (b) promote sexually explicit or pornographic material, violence, or discrimination based on race, sex, religion, nationality, disability, sexual orientation or age; (c) infringe any patent, trademark, trade secret, copyright or other intellectual property or other rights of any other person; (d) violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Service and our Privacy Policy; (e) be likely to deceive any person; (f) promote any illegal activity, or advocate, promote or assist any unlawful act; (g) cause annoyance, inconvenience or needless anxiety or be likely to upset, embarrass, alarm or annoy any other person; (h) impersonate any person, or misrepresent your identity or affiliation with any person or organization; (i) give the impression that they emanate from or are endorsed by us or any other person or entity, if this is not the case; and/or (j) contain any material or information which may be false or misleading.
+(d) Google Analytics and Other Similar Services. _We may use Google Analytics and other similar services that use cookies to help us analyze how users interact with our Services and improve your experience in it._
 
-(2) Our Service allows you to post, share and otherwise make available certain text, or other material (&quot;Content&quot;) in the in-game chat. You are responsible for abiding to our chat rules, as stated in-game. We reserve the right, at our sole discretion, to remove any in-game messages. We reserve the right to prevent you from writing messages if you do not abide by the Chat Rules. Early Morning Studio does not take responsibility for any player-created content, including but not limited to chat messages, player names, clan names, clan banners. Early Morning Studio will make reasonable best-effort attempts to clean up player-created content that is offensive or breaches our Terms. By using our Service, you agree to not use cheats, exploits, automation software, bots, hacks, mods or any unauthorized third-party software designed to modify or interfere with the Service. Additionally, you agree to not sell or give away your account to other players.
- We reserve the right to prevent you from interacting with other players if you break the Terms, independent if you made in-app-purchases or not. We reserve our right to, for whatever reason, stop a player from utilizing our online functionality, including but not limited to PvP.
+5. Third-Party Use of Cookies and Other Tracking Technologies
 
-7. License; Reservation of Rights
+(1) Some content or applications, including advertisements, on the Services are served by third-parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies or other tracking technologies to collect information about you when you use our Service. The information they collect may be associated with your Personal Information or they may collect information, including Personal Information, about your online activities over time and across different websites and other online services.
 
-(1) Subject to your compliance with these Terms of Service, we grant you a limited, non-exclusive, non-transferable, non-sublicensable license to access and use of the Service. This license does not include any resale of any Service or its contents. All rights not expressly granted to you in these Terms of Service are reserved and retained by us. No Service, nor any part of any Service, may be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without our express written consent.
+(2) Among content and applications served by third-parties, we may use, without limitation, the following services:
 
-(2) You acknowledge and agree that the Service is provided under software as a service license, and not sold, to you. You do not acquire any ownership interest in the Service under these Terms, or any other rights thereto other than to use the Service in accordance with the license granted, and subject to all terms, conditions and restrictions, under these Terms. Company and its licensors and service providers reserve and shall retain their entire right, title and interest in and to the Service, including all copyrights, trademarks and other intellectual property rights therein or relating thereto, except as expressly granted to you in these Terms.
+(a) GameAnalytics. _Please visit their website for further information on their privacy practices -_ _gameanalytics.com/privacy__._
 
-8. Intellectual Property Rights
+(b) Slack. _Please visit their website for further information on their privacy practices -_ _slack.com/privacy-policy_
 
-The Service and its entire contents, except user generated content, features and functionality including but not limited to all information, software, text, displays, images, video and audio, and the design, selection and arrangement thereof, are owned by the Company, its licensors or other providers of such material and are protected by the national and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws.
+(c) Unity3D. _Please visit their website for further information on their privacy practices -_ _unity3d.com/legal/privacy-policy_
 
-9. Trademarks
+(d) AppsFlyer. _Please visit their website for further information on their privacy practices -_ _appsflyer.com/services-privacy-policy/_
 
-The Company name, the terms, the Company logo and all related names, logos, product and service names, designs and slogans are trademarks of the Company or its affiliates or licensors. You must not use such marks without the prior written permission of the Company. All other names, logos, product and service names, designs and slogans on this Service are the trademarks of their respective owners.
+(e) Facebook. _Please visit their website for further information on their privacy practices -_ _facebook.com/legal/FB\_Work\_Privacy_
 
-10. Other Businesses
+(3) We do not control these third parties&#39; tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
-Parties other than us may operate stores, provide services, or sell product lines on our website as additions to our Service. We are not responsible for examining or evaluating, and we do not warrant the offerings of, any of these businesses or individuals. We do not assume any liability for the actions, product, and content of all of these or any other third parties. We may share your information related to those transactions with that third party. We strongly recommend you carefully review their privacy statements and other legal documents.
+6. How We Use Your Information
 
-11. Your Responsibilities
+(1) We use information that we collect about you or that you provide to us, including any Personal Information: (a) to present our Service and its contents to you; (b) to provide you with information, products, or services that you request from us; (c) to fulfill any other purpose for which you provide it; (d) to perform and develop services, deliveries, payments and products in connection with our Service; (e) to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing, collection, bookkeeping, support and marketing; (f) to notify you about changes to our Service or any products or services we offer or provide through it; (g) to develop our Services and provide better services, including by identifying and correcting technical issues; (h) to deliver and target advertising; (i) in any other way we may describe when you provide the information; and (j) for any other purpose with your consent.
 
-(1) You are solely responsible for (a) the operation, performance and security of your equipment, networks and other computing resources needed and used to connect to and make full use of the Services; (b) maintaining the confidentiality of your accounts, passwords and personal identification numbers used in conjunction with the Services; (c) all uses of the Services by you; and (d) notifying us immediately of any unauthorized use of its account or any other breach of security. You agree to hold us harmless and we will not be liable for any losses or damages that you may incur as a result of a third party using its password or account.
+(2) We may also use your information to contact you about our own and third parties&#39; goods and services that may be of interest to you. If you do not want us to use your information in this way, please contact us at the e-mail at the bottom of this Privacy Policy.
 
-12. Fees and Plans
+(3) We will keep your Personal Information in our possession for the period necessary for the fulfillment of our collection purposes, as provided in Section 6 (1) above.
 
-We may charge fees for the use of the Service. Please read carefully the information on the applicable Gaming Platform where you will use the Service. In certain cases, we may offer a trial period without payment.
+7. Disclosure of Your Information
 
-13. Billing and Payment
+(1) We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
-(1) Unless otherwise stated, our charges do not include any taxes, levies, duties or similar governmental assessments, including, but not limited to taxes assessable by any local, state, provincial, federal or foreign jurisdiction (collectively, the &quot; **Taxes**&quot;). You are responsible for paying Taxes except those charged against the Company based on its income.
+(2) We may disclose Personal Information that we collect or you provide as described in this privacy policy: (a) to our subsidiaries, affiliates and related companies; (b) to contractors, service providers, and other third parties we use to support our business, including, but not limited to firms for payment processing, developing, operations, sales, support, data analysis and marketing; (c) to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Company&#39;s assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by Company about our customers and/or users is among the assets transferred; (d) to fulfill the purpose for which you provide it; (e) for any other purpose disclosed by us when you provide the information; or (f) with your consent.
 
-(2) If you pay by credit card or certain other payment instruments, the Service provides a link to our payment processing agent. You hereby authorize the Company or any payment agent hired by Company to bill your credit card or other payment instrument in advance on a periodic basis (monthly or annually) in accordance with the terms of the Plan for the Service until you terminate your subscription to the Service. You agree to promptly update your account information with any changes that may occur, including, without limitation, any information relevant for billing purposes.
+(3) We may also disclose your Personal Information: (a) to comply with any court order, law, or legal process, including to respond to any legal duty, government or regulatory request; (b) to enforce or apply any other agreements, including but not limited to for billing and collection purposes; (c) if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers, or others, including but not limited to exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
-(3) All bank and transaction fees associated with the payment for the Service, including, but not limited to services of a correspondent bank or transferring money, shall be paid by you.
+8. Choices About How We Use and Disclose Your Information
 
-14. Prohibited Uses
+(1) We strive to provide you with choices regarding the Personal Information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
-(1) You may use the Service only for lawful purposes and in accordance with these Terms of Service. You agree not to use the Service (a) in any way that violates any applicable law or regulation (including, without limitation, any laws regarding the export of data or software); (b) for the purpose of exploiting, harming or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information or otherwise; (c) to transmit, or procure the sending of, any advertising or promotional material without our prior written consent, including any &quot;junk mail&quot;, &quot;chain letter&quot; or &quot;spam&quot; or any other similar solicitation; and (d) to impersonate or attempt to impersonate the Company, a Company employee, another user or any other person or entity (including, without limitation, by using e-mail addresses or screen names associated with any of the foregoing).
+(a) Tracking Technologies and Advertising. _You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this Service may then be inaccessible or not function properly._
 
-(2) Additionally, you agree not to (a) use the Service in any manner that could disable, overburden, damage, or impair the site or interfere with any other party&#39;s use of the Service, including their ability to engage in real time activities through the Service; (b) use any robot, spider or other automatic device, process or means to access the Service for any purpose, including monitoring or copying any of the material on the Service; (c) use any device, software or routine that interferes with the proper working of the Service; (d) introduce any viruses, trojan horses, worms, logic bombs or other material which is malicious or technologically harmful; (e) attempt to gain unauthorized access to, interfere with, damage or disrupt any parts of the Service, or any server, computer or database connected to the Service; (f) attack the Service via a denial-of-service attack or a distributed denial-of-service attack; or (g) otherwise attempt to interfere with the proper working of the Service.
+(b) Promotional Offers from the Company. _If you do not wish to have your contact information used by the Company to promote our own or third parties&#39; products or services, you can opt-out by sending us an email stating your request to the e-mail provided at the bottom of this policy._
 
-15. Monitoring and Enforcement; Termination
+(2) We do not control third parties&#39; collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way.
 
-(1) We have the right to (a) disclose your identity or other information about you to any third party who claims that material posted by you violates their rights, including their intellectual property rights or their right to privacy; (b) take appropriate legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of the Service; and/or (c) terminate or suspend your access to all or part of the Service for any or no reason, including without limitation, any violation of these Terms of Service.
+(3) Most, if not all, of the advertisements appearing on the Service, are delivered to you by one of our Web advertising partners (&quot;Ad Serving Partners&quot;). In the course of delivering such advertisements, our Ad Serving Partners may place or recognize a unique cookie on your browser, or place web beacons, JavaScript or other similar technologies on our Service for the purpose of collecting information. Thereafter, information about your visits to the Service, such as your search terms or phrases or the number of times you have viewed an advertisement (but not your name, address, or other Personal Information), is used to deliver targeted advertisements to you, a practice commonly known as &quot;behavioral advertising.&quot; The information collected by our Ad Serving Partners through cookies, web beacons or other similar technologies is anonymous, and our Ad Serving Partners are not authorized to collect any Personal Information about you.
 
-(2) Without limiting the foregoing, we have the right to fully cooperate with any law enforcement authorities or court order requesting or directing us to disclose the identity or other information of anyone posting any materials on or through the Service. YOU WAIVE AND HOLD HARMLESS THE COMPANY AND ITS AFFILIATES, LICENSEES AND SERVICE PROVIDERS FROM ANY CLAIMS RESULTING FROM ANY ACTION TAKEN BY ANY OF THE FOREGOING PARTIES DURING OR AS A RESULT OF ITS INVESTIGATIONS AND FROM ANY ACTIONS TAKEN AS A CONSEQUENCE OF INVESTIGATIONS BY EITHER SUCH PARTIES OR LAW ENFORCEMENT AUTHORITIES.
+9. Your Privacy Rights
 
-16. Reliance on Information Posted
+(1) Certain jurisdictions may permit certain users of our Service to withdraw its consent to this Privacy Policy. To make such a request, please send an email to the e-mail address at the bottom of this Privacy Policy. Please note that by withdrawing of your consent to this Privacy Policy you will not be able to use our Services. We will process such request in accordance with the applicable law.
 
-The information presented on or through the Service is made available solely for general information purposes. We do not warrant the accuracy, completeness or usefulness of this information. Any reliance you place on such information is strictly at your own risk. WE DISCLAIM ALL LIABILITY AND RESPONSIBILITY ARISING FROM ANY RELIANCE PLACED ON SUCH MATERIALS BY YOU OR ANY OTHER USERS OF THE SERVICE, OR BY ANYONE WHO MAY BE INFORMED OF ANY OF ITS CONTENTS.
+(2) You may send us an email at the e-mail address at the bottom of this Privacy Policy to request access to, object, correct or delete any Personal Information that you have provided to us, as well as obtain restriction of processing in the cases provided by the applicable law. However, we reserve the right to not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
-17. Updates to the Service
+(3) In case of any inobservance with our legal requirements and duties, you have the right to file a complaint with the applicable data protection authority.
 
-(1) Company may from time to time in its sole discretion develop and provide service updates, which may include upgrades, bug fixes, patches and other error corrections and/or new features (collectively, including related documentation, &quot;Updates&quot;). Updates may also modify or delete in their entirety certain features and functionalities. You agree that Company has no obligation to provide any Updates or to continue to provide or enable any particular features or functionalities.
+10. Data Security
 
-(2) You shall promptly download and install all Service Updates and acknowledge and agree that the Service or portions thereof may not properly operate if you fail to do so. You further agree that all Updates will be deemed part of the Service and be subject to all terms and conditions of these Terms. Any of the material on the Service may be out of date at any given time, and we are under no obligation to update such material.
+(1) The safety and security of your information also depends on you. Where we have given you a password for access to certain parts of our Service, you are responsible for keeping this password confidential. We require you not to share your password and login details with anyone.
 
-(3) We reserve the right to withdraw or amend this Service in our sole discretion without notice. We will not be liable if for any reason all or any part of the Service is unavailable at any time or for any period. From time to time, we may restrict access to some parts of the Service, or the entire Service, to users, including registered users.
+(2) The Company takes the security of your data seriously. Payment Information is generally protected through the use of PCI-DSS-compliant third-party payment processors. For the handling of personal data, we aim at protecting your Personal Information through the use of SSL encryption. Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your Personal Information, we cannot guarantee the security of your Personal Information transmitted to our Services. Unless otherwise provided in the applicable legislation, any transmission of Personal Information is at your own risk.
 
-18. Information About You and Your Use of the Service
+11. Transfer to other Countries
 
-All information we collect on this Service is subject to our Privacy Policy [https://kuljaninemir.github.io/vfo-privacy-policy/]. By using the Service, you consent to all actions taken by us with respect to your information in compliance with the Privacy Policy.
+European Union citizens and others understand and agree that the Personal Information collected may be transferred to third countries, as some third parties, affiliates and subsidiaries supporting our business may be located in these countries. Your Personal Information may therefore be subject to privacy laws that are different from those in your country of residence. Please note that some countries may not offer the same type of protection and privacy for Personal Information provided.
 
-19. Termination Terms and Refund Policy
+12. Notice to European Union Residents
 
-(1) No refunds for fees or payments will be provided to you if you choose to terminate your subscription to the Service or cancel your account.
+_Legal Basis for Processing Personal Data under the General Data Protection Regulation (GDPR)_
 
-(2) Company may terminate this Agreement at any time without notice. In addition, these Terms will terminate immediately and automatically without any notice if you violate any of its terms and conditions. Upon termination all rights granted to you under this Agreement will also terminate. Termination will not limit any of Company&#39;s rights or remedies at law or in equity.
+(1) We may process your Personal Information because: (a) we need to perform a contract with you; (b) you have given us permission to do so under the terms of this Privacy Policy; (c) the processing is in our legitimate interest and it is not overridden by your rights; (d) we may need to collect or process payment in exchange for the Services; and (e) we need to comply with applicable laws.
 
-(3) Without limiting the foregoing, we have the right in our sole discretion to cancel accounts that we may deem abusive. Accounts will not be closed without proper warning to allow an account to come back into compliance.
+_Your Data Protection Rights under the General Data Protection Regulation (GDPR)_
 
-20. Disclaimer of Warranties
+(2) We strive to comply with all applicable laws relating to our collection and processing of your Personal Information. In certain circumstances and as provided under applicable law, you have the following data protection rights: (a) the right to access, update or delete the information we have on you; (b) the right to rectify any information that is inaccurate or incomplete; (c) the right to object to any unlawful processing of your Personal Information; (d) the right to request the restriction of our processing of your Personal Information; (e) the right to know and receive a copy of the information we may have on you; and (f) the right to withdraw your consent at any time where we relied on your consent to process your Personal Information.
 
-(1) You understand that we cannot and do not guarantee or warrant that files available for downloading from the internet or the Service will be free of viruses or other destructive code. You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for anti-virus protection and accuracy of data input and output, and for maintaining a means external to our site for any reconstruction of any lost data. WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A DISTRIBUTED DENIAL-OF-SERVICE ATTACK, VIRUSES OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY INFECT YOUR COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA OR OTHER PROPRIETARY MATERIAL DUE TO YOUR USE OF THE SERVICE OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE OR TO YOUR DOWNLOADING OF ANY MATERIAL POSTED ON IT, OR ON ANY WEBSITE LINKED TO IT.
+(3) For any requests relating to your rights under the GDPR, please notify us at the email address at the bottom of this page. Furthermore, you have the right to complain to a Data Protection Authority about our collection and use of your Personal Information.
 
-(2) YOUR USE OF THE SERVICE, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICE ARE AT YOUR OWN RISK. THE SERVICE, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICE ARE PROVIDED ON AN &quot;AS IS&quot; AND &quot;AS AVAILABLE&quot; BASIS AND WITH ALL FAULTS AND DEFECTS WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. NEITHER THE COMPANY NOR ANY PERSON ASSOCIATED WITH THE COMPANY MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF THE SERVICE. WITHOUT LIMITING THE FOREGOING, NEITHER THE COMPANY NOR ANYONE ASSOCIATED WITH THE COMPANY REPRESENTS OR WARRANTS THAT THE SERVICE, ITS CONTENT OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICE WILL BE ACCURATE, RELIABLE, ERROR-FREE OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT OUR SITE OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT THE SERVICE OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICE WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.
+13. Privacy Policies of Linked Sites and Apps
 
-(3) THE COMPANY HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT AND FITNESS FOR PARTICULAR PURPOSE.
+Our Services may contain links to third-party websites or applications. We are not responsible for the privacy practices or the content of such third parties. Please note that, once you leave our Service, third parties&#39; privacy policies will apply to any information collected. If you have any questions about how these other websites or applications use your information, you should review their policies and contact them directly.
 
-(4) THE FOREGOING DOES NOT AFFECT ANY WARRANTIES WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+14. Changes to Our Privacy Policy
 
-21. Limitation on Liability
+It is our practice to post any changes we make to our privacy policy on this page. If we make material changes to how we treat our users&#39; Personal Information, we will notify you by updating our Privacy Policy on the Service. Any changes will be automatically effective after 30 days of update on the Service. You are responsible for periodically visiting our Service and this privacy policy to check for any changes.
 
-(1) IN NO EVENT WILL THE COMPANY, ITS AFFILIATES OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE SERVICE, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE SERVICE OR SUCH OTHER WEBSITES OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE SERVICE OR SUCH OTHER WEBSITES, (I) INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT OR OTHERWISE, EVEN IF FORESEEABLE; OR (II) FOR ANY AMOUNT EXCEEDING THE TOTAL AMOUNT OF FEES PAID BY YOU FOR THE SERVICES UNDER THESE TERMS.
+15. Governing Law and Dispute Resolution
 
-(2) THE FOREGOING DOES NOT AFFECT ANY LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+This Privacy Policy and any dispute arising hereunder will be governed by the laws of Sweden without regard to its choice of law or conflicts of law principles. Both you and the Company agree that all claims and disputes arising out of or relating to this Privacy Policy will be litigated exclusively in the courts located in Sweden.
 
-22. Indemnification
+16. Contact Information
 
-You agree to defend, indemnify and hold harmless the Company, its affiliates, licensors and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses or fees (including reasonable attorneys&#39; fees) arising out of or relating to your violation of these Terms of Service or your use of the Service, including, but not limited to, any use of the Service&#39;s content, services and products other than as expressly authorized in these Terms of Service or your use of any information obtained from the Service.
-
-23. Export Regulations
-
-The Service may be subject to export control laws. You shall not, directly or indirectly, export, re-export or release the Service to, or make the Service accessible from, any jurisdiction or country to which export, re-export or release is prohibited by law, rule or regulation. You shall comply with all applicable laws, regulations and rules, and complete all required undertakings (including obtaining any necessary export license or other governmental approval), prior to exporting, re-exporting, releasing or otherwise making the Service available outside of Canada, United States of America, European Union, Australia, Japan and New Zealand.
-
-24. Governing Law and Jurisdiction
-
-(1) All matters relating to the Service and these Terms of Service and any dispute or claim arising therefrom or related thereto (in each case, including non-contractual disputes or claims), shall be governed by and construed in accordance with the laws of Sweden, without giving effect to any choice or conflict of law provision or rule. The application of the United Nations Convention for the International Sale of Goods is expressly excluded.
-
-(2) Any legal suit, action or proceeding arising out of, or related to, these Terms of Service or the Service shall be instituted exclusively in Sweden. You waive any and all objections to the exercise of jurisdiction over you by such courts and to venue in such courts.
-
-25. Waiver and Severability
-
-(1) No waiver by the Company of any term or condition set forth in these Terms of Service shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of the Company to assert a right or provision under these Terms of Service shall not constitute a waiver of such right or provision.
-
-(2) If any provision of these Terms of Service is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Terms of Service will continue in full force and effect.
-
-26. Entire Agreement
-
-The Terms of Service and our Privacy Policy constitute the sole and entire agreement between you and the Company with respect to the Service and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to the Service.
-
-27. Relationship of the Parties
-
-These Terms are not an agency, partnership, joint venture, employment or other such business arrangement. You may not act as agent for, or on behalf of, the Company, or to represent the Company, or bind the Company in any manner.
-
-28. Assignment
-
-The Company may assign these Terms or any part of them without notice to you, and the Company may delegate any of its obligations under these Terms. You may not assign these Terms or any part of them, nor transfer or sub-license your rights under these Terms, to any third party.
-
-29. Your Comments and Concerns
-
-This Service is operated by:
+To ask questions or comment about this privacy policy and our privacy practices, contact us at:
 
 Early Morning Studio AB
 Sveavägen 9, 111 57, Stockholm, Sweden
-
-All other feedback, comments, requests for technical support and other communications relating to the Service should be directed to: support@earlymorningstudio.com.
